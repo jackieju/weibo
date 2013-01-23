@@ -1,0 +1,32 @@
+query unicde http://www.fileformat.info/info/unicode/char/592a/index.htm
+
+# a = "\u\5199\u\70b9\u\4e1c\u\897f\u\5427\u\ff0c\u\8bc4\u\8bba\u\5185\u\5bb9\u\4e0d\u\80fd\u\4e3a\u\7a7a\u\54e6\u\3002"
+p "\u\{5199}"
+
+
+\u\4e0d\u\8981\u\592a\u\8d2a\u\5fc3\u\54e6\u\ff0c\u\8be5\u\5fae\u\535a\u\5df2\u\7ecf\u\8bc4\u\8bba\u\8fc7\u\4e86\u\3002\u\5efa\u\8bae\u\534a\u\5c0f\u\65f6\u\540e\u\518d\u\8bc4\u\8bba\u\ff01\u\5982\u\9700\u\5e2e\u\52a9\u\ff0c\u\8bf7
+already write comment on this mb
+
+
+
+\u\5fae\u\535a\u\53d1\u\7684\u\592a\u\591a\u\5566\u\ff0c\u\4f11\u\606f\u\4e00\u\4f1a\u\518d\u\53d1\u\5566\u\ff01"
+send too much mb
+
+
+"code":"100002","msg":"","data":"http:\/\/weibo.com\/login.php?url=http%3A%2F%2Fweibo.com"}
+need re-logon
+
+"code":"100001","msg":"hi\u8d85\u4eba\uff0c\u60a8\u4eca\u5929\u5df2\u7ecf\u5173\u6ce8\uff08\u6216\u53d6\u6d88\u5173\u6ce8\uff09\u592a\u591a\u4eba\u5566\uff0c\u8bf7\u660e\u5929\u518d\u7ee7\u7eed\u5427\uff01<a href=\"http:\/\/help.weibo.com\/faq\/q\/77\/12572#12572\">\u67e5\u770b\u5e2e\u52a9<\/a><br>\u5982\u9700\u5e2e\u52a9\uff0c\u8bf7<a href=\"http:\/\/help.weibo.com\/self\/query?typeid=1034\">\u8054\u7cfb\u5ba2\u670d<\/a>\u3002","data":[]}
+hi superman, today you have follow/unfollow too much people, please continue tommorrow
+(发送重复信息也会返回100001)
+
+"code":"100001","msg":"\u62b1\u6b49\uff0cTA\u8fd8\u4e0d\u662f\u4f60\u5173\u6ce8\u7684\u4eba\u54e6\uff0c\u611f\u5174\u8da3\u7684\u8bdd\u5148\u5173\u6ce8\u5566\u3002","data":[]
+抱歉，TA还不是你关注的人
+
+code:100027 发微博失败。不要太贪心哦，发一次就够啦
+
+#<Net::HTTPOK:0x101715690>, {"code":"100001","msg":"\u62b1\u6b49\uff0c\u5173\u6ce8\u5931\u8d25(>_<) \uff0c\u7a0d\u540e\u518d\u8bd5\u5566\u3002","data":[]}
+抱歉，关注失败，请稍后再实啦。
+
+add comments to 32/103, url=/32/109) return {"code":"100001","msg":"\u4e0d\u8981\u592a\u8d2a\u5fc3\u54e6\uff0c\u8be5\u5fae\u535a\u5df2\u7ecf\u8bc4\u8bba\u8fc7\u4e86\u3002\u5efa\u8bae\u534a\u5c0f\u65f6\u540e\u518d\u8bc4\u8bba\uff01\u5982\u9700\u5e2e\u52a9\uff0c\u8bf7<a target=\"_blank\" href=\"http:\/\/help.weibo.com\/self\/query?typeid=1034\">\u8054\u7cfb\u5ba2\u670d<\/a>","data":{}}
+不要太贪心哦，该微博已经评论过了。
